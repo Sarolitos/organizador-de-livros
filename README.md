@@ -55,6 +55,6 @@ projeto/
 
 
 ## Integrantes do grupo
-- David Leite (_　_)。゜zｚＺ
-- José Renaldo ฅ^•ﻌ•^ฅ
-- João Gabriel ༼ つ ◕_◕ ༽つ
+- Sarah Oliveira
+- Sara Araújo
+- Sophia Muniz
